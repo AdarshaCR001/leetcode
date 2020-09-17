@@ -1,3 +1,5 @@
+import helper.ListNode;
+
 public class Problem19_RemoveNthNodeFromEndOfList {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode temp = head;
