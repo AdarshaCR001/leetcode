@@ -16,4 +16,7 @@ public class Problem374_GuessNumberHigherOrLower {
         }
         return n;
     }
+    int guess(int n){
+        return 1;
+    }
 }
